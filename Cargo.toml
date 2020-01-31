@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "bitcoin-address",
+    "bitcoin-address-cli",
+]

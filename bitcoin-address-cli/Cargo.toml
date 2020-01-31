@@ -1,0 +1,9 @@
+[package]
+name = "bitcoin-address-cli"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <bogdan.today@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bitcoin-address = { path = "../bitcoin-address" }
+clap = "2.33.0"
